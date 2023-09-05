@@ -1,0 +1,43 @@
+.container{
+    display: flex;
+    align-items: center;
+    margin-top: 3em;
+    background: rgb(255,255,255);
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(222,222,222,1) 50%, rgba(226,226,226,1) 100%);
+    
+    padding-bottom: 3em;
+}
+
+.slogan{
+    margin-left: 7em;
+    
+}
+
+.slogan h1{
+    font-size: 38px;
+    font-weight: 700;
+    color: var(--color-main);
+
+}
+
+.slogan h2{
+    margin-top: 2em;
+    opacity: 80%;
+
+}
+
+.bannerCar{
+
+    width: 50%;
+}
+
+.slogan__images{
+    display: flex;
+    margin-top: 2em;
+    gap: 2em;
+
+}
+
+.slogan__images img{
+    width: 20%;
+}

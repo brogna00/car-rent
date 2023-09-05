@@ -1,0 +1,45 @@
+
+.header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1em 0;
+    color: var(--color-main);
+    
+}
+
+.headerLogo{
+    display: flex;
+    align-items: center;
+    
+}
+
+.headerLogo h3{
+    font-family: var(--font-logo);
+    font-size:36px;
+    font-weight: 700;
+    color: var(--color-sec);
+
+}
+
+.headerLogoImage{
+    justify-self: flex-start;
+    width: 20%;
+    transform: rotate(-35deg); /* Rotaciona a imagem em 45 graus */
+
+    
+}
+
+.headerList ul{
+    display: flex;
+    gap: 3em;
+    font-size: 18px;
+
+}
+
+.headerList li:hover{
+    color: var(--color-sec);
+    cursor: pointer;
+    transition-duration: 350ms;
+
+}

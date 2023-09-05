@@ -1,0 +1,12 @@
+.swiper-pagination .swiper-pagination-bullet{
+    background-color: var(--color-sec);
+    width: 45px;
+    border-radius: 15px;
+
+}
+
+.swiper-button-prev::after, .swiper-button-next::after{
+    color: var(--color-sec);
+
+}
+

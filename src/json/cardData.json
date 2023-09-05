@@ -1,0 +1,261 @@
+[
+    {
+        "id": 1,
+        "category": "Hatch",
+        "name": "Chevrolet Onix",
+        "image": "/assets/onix.png",
+        "rating": 4.9,
+        "price": 80
+    },
+    {
+        "id": 2,
+        "category": "Hatch",
+        "name": "Volkswagen Gol",
+        "image": "/assets/gol-card.png",
+        "rating": 4.6,
+        "price": 80
+    },
+    {
+        "id": 3,
+        "category": "Hatch",
+        "name": "Fiat Mobi",
+        "image": "/assets/mobi-card.png",
+        "rating": 4.5,
+        "price": 80
+    },
+    {
+        "id": 4,
+        "category": "Hatch",
+        "name": "Renault Kwid",
+        "image": "/assets/kwid-card.png",
+        "rating": 4.4,
+        "price": 80
+    },
+    {
+        "id": 5,
+        "category": "Hatch",
+        "name": "Renault Sandero",
+        "image": "/assets/sandero-card.png",
+        "rating": 4.6,
+        "price": 100
+    },
+    {
+        "id": 6,
+        "category": "Hatch",
+        "name": "Fiat Argo",
+        "image": "/assets/argo-card.png",
+        "rating": 4.8,
+        "price": 100
+    },
+    {
+        "id": 7,
+        "category": "Hatch",
+        "name": "Volkswagen Polo",
+        "image": "/assets/polo-card.png",
+        "rating": 4.7,
+        "price": 100
+    },
+    {
+        "id": 8,
+        "category": "Hatch",
+        "name": "Hyundai HB20",
+        "image": "/assets/hb20-card.png",
+        "rating": 4.7,
+        "price": 100
+    },
+    {
+        "id": 9,
+        "category": "Hatch",
+        "name": "Peugeot 208",
+        "image": "/assets/208-card.png",
+        "rating": 4.8,
+        "price": 100
+    },
+
+    {
+        "id": 10,
+        "category": "Sedan",
+        "name": "Hyundai HB20s",
+        "image": "/assets/hb20s-card.png",
+        "rating": 4.7,
+        "price": 150
+    },
+    {
+        "id": 11,
+        "category": "Sedan",
+        "name": "Fiat Cronos",
+        "image": "/assets/cronos-card.png",
+        "rating": 4.8,
+        "price": 150
+    },
+    {
+        "id": 12,
+        "category": "Sedan",
+        "name": "Volkswagen Virtus",
+        "image": "/assets/virtus-card.png",
+        "rating": 4.9,
+        "price": 150
+    },
+    {
+        "id": 13,
+        "category": "Sedan",
+        "name": "Chevrolet Onix Plus",
+        "image": "/assets/onixplus-card.png",
+        "rating": 4.8,
+        "price": 150
+    },
+    {
+        "id": 14,
+        "category": "Sedan",
+        "name": "Toyota Corolla",
+        "image": "/assets/corolla-card.png",
+        "rating": 4.9,
+        "price": 200
+    },
+    {
+        "id": 15,
+        "category": "Sedan",
+        "name": "Chevrolet Cruze",
+        "image": "/assets/cruze-card.png",
+        "rating": 4.7,
+        "price": 200
+    },
+    {
+        "id": 16,
+        "category": "Sedan",
+        "name": "Nissan Sentra",
+        "image": "/assets/sentra-card.png",
+        "rating": 4.8,
+        "price": 200
+    },
+    {
+        "id": 17,
+        "category": "SUV",
+        "name": "Chevrolet Tracker",
+        "image": "/assets/tracker-card.png",
+        "rating": 4.9,
+        "price": 200
+    },
+    {
+        "id": 18,
+        "category": "SUV",
+        "name": "Renault Duster",
+        "image": "/assets/duster-card.png",
+        "rating": 4.5,
+        "price": 200
+    },
+    {
+        "id": 19,
+        "category": "SUV",
+        "name": "Nissan Kicks",
+        "image": "/assets/kicks-card.png",
+        "rating": 4.8,
+        "price": 200
+    },
+    {
+        "id": 20,
+        "category": "SUV",
+        "name": "Fiat Pulse",
+        "image": "/assets/pulse-card.png",
+        "rating": 4.7,
+        "price": 200
+    },
+    {
+        "id": 21,
+        "category": "SUV",
+        "name": "Volkswagen T-Cross",
+        "image": "/assets/tcross-card.png",
+        "rating": 4.9,
+        "price": 200
+    },
+    {
+        "id": 22,
+        "category": "SUV",
+        "name": "Peugeot 2008",
+        "image": "/assets/2008-card.png",
+        "rating": 4.6,
+        "price": 230
+    },
+    {
+        "id": 23,
+        "category": "SUV",
+        "name": "Toyota Corolla Cross",
+        "image": "/assets/corollacross-card.png",
+        "rating": 4.9,
+        "price": 230
+    },
+    {
+        "id": 24,
+        "category": "SUV",
+        "name": "Hyundai Creta",
+        "image": "/assets/creta-card.png",
+        "rating": 4.7,
+        "price": 230
+    },
+    {
+        "id": 25,
+        "category": "Luxo",
+        "name": "Range Rover Evoque",
+        "image": "/assets/evoque-card.png",
+        "rating": 4.6,
+        "price": 300
+    },
+    {
+        "id": 26,
+        "category": "Luxo",
+        "name": "Mercedes Benz C180",
+        "image": "/assets/c180-card.png",
+        "rating": 4.8,
+        "price": 330
+    },
+    {
+        "id": 27,
+        "category": "Luxo",
+        "name": "Audi A4 Avant",
+        "image": "/assets/a4a-card.png",
+        "rating": 4.8,
+        "price": 330
+    },
+    {
+        "id": 28,
+        "category": "Luxo",
+        "name": "Audi A4 Avant Sedan",
+        "image": "/assets/a4s-card.png",
+        "rating": 4.9,
+        "price": 330
+    },
+    {
+        "id": 29,
+        "category": "Luxo",
+        "name": "Jeep Compass",
+        "image": "/assets/jeep-card.png",
+        "rating": 4.8,
+        "price": 330
+    },
+    {
+        "id": 30,
+        "category": "Luxo",
+        "name": "Audi Q3",
+        "image": "/assets/q3-card.png",
+        "rating": 4.7,
+        "price": 330
+    },
+    {
+        "id": 31,
+        "category": "Luxo",
+        "name": "BMW 330i",
+        "image": "/assets/330i-card.png",
+        "rating": 4.9,
+        "price": 350
+    },
+    {
+        "id": 32,
+        "category": "Luxo",
+        "name": "Mercedes-Benz GLE63 S",
+        "image": "/assets/amg-card.png",
+        "rating": 4.8,
+        "price": 350
+    }
+
+
+]

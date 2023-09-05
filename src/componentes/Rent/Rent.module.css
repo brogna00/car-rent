@@ -1,0 +1,47 @@
+.container {
+    display: flex;
+    border-radius: 40px;
+    padding: 20px;
+    width: 900px;
+    margin: 3rem auto 0 auto;
+    text-align: center;
+    gap: 5em;
+    box-shadow: 2px 2px 12px 4px rgba(0, 0, 0, 0.1);
+
+    
+}
+  
+.container label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.container label p {
+    margin-bottom: 1em;
+}
+
+.container input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.botao {
+    background-color: var(--color-main);
+    border-radius: 15px;
+    padding: 0px 35px;
+    border: none;
+    cursor: pointer;
+    color: #FFF;
+
+}
+
+.botao:hover {
+    background-color: var(--color-sec);
+    transition-duration: 200ms;
+}
+
+.container input::placeholder{
+    text-align: center;
+}

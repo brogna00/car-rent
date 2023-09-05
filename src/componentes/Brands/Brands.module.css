@@ -1,0 +1,16 @@
+.container ul{
+    margin-top: 4em ;
+    display: flex;
+    gap: 8em;
+    justify-content: center;
+
+}
+
+.container ul img{
+    width: 57px;
+
+}
+
+.container ul img:hover{
+    cursor: pointer;
+}

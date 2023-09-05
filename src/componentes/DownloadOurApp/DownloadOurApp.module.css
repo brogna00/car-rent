@@ -1,0 +1,53 @@
+.container{
+    margin: 10em;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    background: linear-gradient(90deg, rgba(190,48,48,1) 57%, rgba(255,138,138,1) 88%);
+
+
+}
+
+.bannerImage{
+    width: 14%;
+    margin-right: 13em;
+
+
+}
+
+.container__left{
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    margin-left: 10em;
+
+}
+
+.container__left h2{
+    font-size: 36px;
+    font-weight: 700;
+    color: var(--color-third);
+
+}
+
+.container__left p{
+    margin-top: 0.5em;
+    color: var(--color-third);
+
+}
+
+.container__left__logos img{
+    margin-top: 1em;
+    width: 15%;
+    
+}
+
+.container__left__logos img:first-child{
+    margin-right: 2em;
+    
+}
+
+.followUs__images img{
+    width: 10%;
+
+}
