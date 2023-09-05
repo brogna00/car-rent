@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/car-rent/static/css/main.1f057e8d.css",
+    "main.js": "/car-rent/static/js/main.456aa132.js",
+    "static/media/celular-banner.png": "/car-rent/static/media/celular-banner.67041beb9bbb26fbad82.png",
+    "static/media/car-banner.png": "/car-rent/static/media/car-banner.44244fbd6cd48db06cf0.png",
+    "static/media/car-banner-two.png": "/car-rent/static/media/car-banner-two.95c59cb1eb39827484e1.png",
+    "static/media/330i-swiper.png": "/car-rent/static/media/330i-swiper.fa7df5731eb9da68575b.png",
+    "static/media/tcross-swiper.png": "/car-rent/static/media/tcross-swiper.66f38a50078884db5c94.png",
+    "static/media/onix-swiper.png": "/car-rent/static/media/onix-swiper.81959ffcbb35ce5a51a0.png",
+    "static/media/corolla-swiper.png": "/car-rent/static/media/corolla-swiper.3df9a022cbd847406391.png",
+    "static/media/instagram.png": "/car-rent/static/media/instagram.a1c145e1424836a24a59.png",
+    "static/media/volks-ic.png": "/car-rent/static/media/volks-ic.470f4d6b15ed5411f346.png",
+    "static/media/play-store-logo.svg": "/car-rent/static/media/play-store-logo.59668d1d00a73f6e2822a0fc917167eb.svg",
+    "static/media/mercedes-ic.png": "/car-rent/static/media/mercedes-ic.c1eb82655e4a3dbcc78c.png",
+    "static/media/fiat-ic.png": "/car-rent/static/media/fiat-ic.152e2c78583b10ff6325.png",
+    "static/media/app-store-logo.svg": "/car-rent/static/media/app-store-logo.abcd15412816433b2157f8998d276688.svg",
+    "static/media/car-rent-logo.svg": "/car-rent/static/media/car-rent-logo.f7d82b56f27b521a3880d8a9b4c48476.svg",
+    "static/media/driver-icon.svg": "/car-rent/static/media/driver-icon.136b76e3873eefc2afff17f7dfab3d4c.svg",
+    "static/media/car.svg": "/car-rent/static/media/car.066017c0580dbbbbf38a94f64ec83c59.svg",
+    "static/media/money-icon.svg": "/car-rent/static/media/money-icon.71ef57d8b2c5fdd338cd4e811431331c.svg",
+    "static/media/peugeot-ic.svg": "/car-rent/static/media/peugeot-ic.14a849ed5b32cf2674a9312213c48913.svg",
+    "static/media/hyundai-ic.svg": "/car-rent/static/media/hyundai-ic.2760fde5bb6bfcac1dd82f0eb7f704a8.svg",
+    "static/media/renault-ic.svg": "/car-rent/static/media/renault-ic.0b3a3bbcda1f4b69b00016a9fd4b9d53.svg",
+    "index.html": "/car-rent/index.html",
+    "static/media/toyota-ic.svg": "/car-rent/static/media/toyota-ic.4196a93adf2388c511240ed49b9037e9.svg",
+    "static/media/support-icon.svg": "/car-rent/static/media/support-icon.36b277492c2bae98163b005de56eb921.svg",
+    "static/media/location.svg": "/car-rent/static/media/location.9f7b9da3d6535cd196c72597d3d40fbe.svg",
+    "static/media/star-icon.svg": "/car-rent/static/media/star-icon.14167e335b3383a9fc087be3d59a035c.svg",
+    "static/media/hour-icon.svg": "/car-rent/static/media/hour-icon.a10368450ee820fde781b4a2e5241af4.svg",
+    "static/media/date.svg": "/car-rent/static/media/date.a77e964975b4c8523f83ec1702199b9d.svg",
+    "static/media/bmw-ic.svg": "/car-rent/static/media/bmw-ic.05edb13c01f18ae2406d44bb1740b2d5.svg",
+    "main.1f057e8d.css.map": "/car-rent/static/css/main.1f057e8d.css.map",
+    "main.456aa132.js.map": "/car-rent/static/js/main.456aa132.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f057e8d.css",
+    "static/js/main.456aa132.js"
+  ]
+}
