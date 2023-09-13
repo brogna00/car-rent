@@ -23,11 +23,11 @@ Este é o repositório do projeto front-end React.js para a empresa fictícia Al
 
 ## Funcionalidades Principais
 
--Reserva de Veículos: Os usuários podem selecionar um local, data de retirada e devolução (em desenvolvimento).
+- Reserva de Veículos: Os usuários podem selecionar um local, data de retirada e devolução (em desenvolvimento).
 
--Pesquisa de Veículos: Os usuários podem pesquisar veículos disponíveis com base no critério de categoria (Hatch, Sedan, SUV e Luxo).
+- Pesquisa de Veículos: Os usuários podem pesquisar veículos disponíveis com base no critério de categoria (Hatch, Sedan, SUV e Luxo).
 
--Swiper: Swiper carrossel que mostra os veículos mais procurados pelos usários.
+- Swiper: Swiper carrossel que mostra os veículos mais procurados pelos usários.
 
 
 
