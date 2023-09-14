@@ -41,7 +41,7 @@ export default function CarModels(){
                             car.category === selectedCategory &&  (
                                 <li key={car.id}>
                                     <CardCar
-                                        image={car.image}
+                                        image={`${process.env.PUBLIC_URL}` + '/' + car.image}
                                         rating={car.rating}
                                         name={car.name}
                                         category={car.category}
