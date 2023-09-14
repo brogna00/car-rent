@@ -11,7 +11,7 @@
         "id": 2,
         "category": "Hatch",
         "name": "Volkswagen Gol",
-        "image": "/assets/gol-card.png",
+        "image": "../../assets/gol-card.png",
         "rating": 4.6,
         "price": 80
     },
