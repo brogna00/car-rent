@@ -3,7 +3,7 @@
         "id": 1,
         "category": "Hatch",
         "name": "Chevrolet Onix",
-        "image": "../../assets/onix.png",
+        "image": "/assets/onix.png",
         "rating": 4.9,
         "price": 80
     },
@@ -11,7 +11,7 @@
         "id": 2,
         "category": "Hatch",
         "name": "Volkswagen Gol",
-        "image": "../../assets/gol-card.png",
+        "image": "/assets/gol-card.png",
         "rating": 4.6,
         "price": 80
     },
