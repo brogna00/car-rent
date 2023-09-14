@@ -3,7 +3,7 @@
         "id": 1,
         "category": "Hatch",
         "name": "Chevrolet Onix",
-        "image": "/assets/onix.png",
+        "image": "../../assets/onix.png",
         "rating": 4.9,
         "price": 80
     },
@@ -256,6 +256,5 @@
         "rating": 4.8,
         "price": 350
     }
-
-
+    
 ]
