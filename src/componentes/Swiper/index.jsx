@@ -15,8 +15,6 @@ import bmwSwiper from '../../assets/330i-swiper.png'
 import ratingIcon from '../../assets/star-icon.svg';
 
 
-import iconLand from '../../assets/land-ic.png'
-
 export default function Carrossel(){
     return(
         <div id="section5" className={`${styles.container} animated-element`}>
@@ -30,7 +28,11 @@ export default function Carrossel(){
                 autoplay={{delay: 3000}}
             >
                 <SwiperSlide className={styles.slideItem}>
-                    <img className={styles.slideItem__image} src={onixSwiper} />
+                    <img 
+                        className={styles.slideItem__image} 
+                        src={onixSwiper}
+                        alt='Onix car'
+                    />
                     <div className={styles.slideItem__text}>
                         <h3>Chevrolet Onix</h3>
                         <p>Categoria Hatch</p>
@@ -41,7 +43,11 @@ export default function Carrossel(){
                     </div>
                 </SwiperSlide>
                 <SwiperSlide className={styles.slideItem}>
-                <img className={styles.slideItem__image} src={corollaSwiper} />
+                    <img 
+                        className={styles.slideItem__image} 
+                        src={corollaSwiper} 
+                        alt='Corolla car'
+                    />
                     <div className={styles.slideItem__text}>
                         <h3>Toyota Corolla</h3>
                         <p>Categoria Sedan</p>
@@ -52,7 +58,11 @@ export default function Carrossel(){
                     </div>
                 </SwiperSlide>
                 <SwiperSlide className={styles.slideItem}>
-                <img className={styles.slideItem__image} src={tcrossSwiper} />
+                    <img 
+                        className={styles.slideItem__image} 
+                        src={tcrossSwiper} 
+                        alt='T-croos car'
+                    />
                     <div className={styles.slideItem__text}>
                         <h3>Volkswagen T-Cross</h3>
                         <p>Categoria SUV</p>
@@ -63,7 +73,11 @@ export default function Carrossel(){
                     </div>
                 </SwiperSlide>
                 <SwiperSlide className={styles.slideItem}>
-                <img className={styles.slideItem__image} src={bmwSwiper} />
+                    <img 
+                        className={styles.slideItem__image} 
+                        src={bmwSwiper}
+                        alt='BMW 330i car' 
+                    />
                     <div className={styles.slideItem__text}>
                         <h3>BMW 330i</h3>
                         <p>Categoria Luxo</p>

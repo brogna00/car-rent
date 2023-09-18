@@ -31,7 +31,8 @@ export default function Steps(){
             <div className={styles.container__steps}>
                 <div className={styles.container__steps__step}>
                     <img
-                        src={locationIcon}     
+                        src={locationIcon}
+                        alt='Location icon'  
                     />
                     <h3>Escolha localização</h3>
                     <p>Selecione sua localização e encontre <br /> o melhor carro para você!</p>
@@ -40,6 +41,7 @@ export default function Steps(){
                 <div className={styles.container__steps__stepContrast} >
                     <img
                         src={dateIcon}
+                        alt='Calendar icon'
                     />
                     <h3>Data de retirada</h3>
                     <p>Escolha o dia e horário que você <br /> deseja retirar o veículo</p>
@@ -48,6 +50,7 @@ export default function Steps(){
                 <div className={styles.container__steps__step}>
                     <img
                         src={carIcon}
+                        alt='Car icon'
                     />
                     <h3>Alugue o carro!</h3>
                     <p>Alugue o carro e o entregaremos <br /> diretamente a você.</p>

@@ -6,7 +6,7 @@ import playStore from '../../assets/play-store-logo.svg'
 
 import { useSpring, animated } from 'react-spring';
 
-export default function(){
+export default function Banner(){
     const bannerAnimation = useSpring({
         from: { opacity: 0, transform: 'translateY(25px)' },
         to: { opacity: 1, transform: 'translatex(0)' },
@@ -31,6 +31,7 @@ export default function(){
                 style={bannerAnimation}
                 className={styles.bannerCar}
                 src={carBanner}
+                alt="Car Banner Picture"
             />
         </div>
     )

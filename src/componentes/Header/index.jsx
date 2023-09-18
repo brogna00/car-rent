@@ -10,7 +10,8 @@ export default function Header(){
             <div className={styles.headerLogo}>
                 <img
                     className={styles.headerLogoImage}
-                    src={logoHeader}  
+                    src={logoHeader}
+                    alt='Key logo icon'
                 />
                 <h3>Aluga Car</h3>
             </div>
