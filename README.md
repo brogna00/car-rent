@@ -27,7 +27,7 @@ Este é o repositório do projeto front-end React.js para a empresa fictícia Al
 
 - Pesquisa de Veículos: Os usuários podem pesquisar veículos disponíveis com base no critério de categoria (Hatch, Sedan, SUV e Luxo).
 
-- Swiper: Swiper carrossel que mostra os veículos mais procurados pelos usários.
+- Swiper: Swiper carrossel que mostra os veículos mais procurados pelos usuários.
 
 
 
