@@ -1,5 +1,3 @@
-import React, { useEffect } from 'react';
-import ScrollReveal from 'scrollreveal';
 
 import styles from './BannerTwo.module.css';
 import carBanner from '../../assets/car-banner-two.png'
@@ -17,6 +15,7 @@ export default function BannerTwo(){
             <img
                 className={styles.bannerImage}
                 src={carBanner}
+                alt='Red Car'
             />
             <div className={styles.container__right}>
                 <div className={styles.container__right__title}>
@@ -28,7 +27,9 @@ export default function BannerTwo(){
                     <li>
                         <img 
                             className={styles.list__icon}
-                            src={moneyIcon} />
+                            src={moneyIcon}
+                            alt='Money icon'
+                        />
                         <h3>Melhor preço</h3>
                        
                     </li>
@@ -36,6 +37,7 @@ export default function BannerTwo(){
                         <img 
                             className={styles.list__icon}
                             src={driverIcon}
+                            alt='Diver icon'
                         />
                         <h3>Melhores motoristas</h3>                        
                     </li>
@@ -43,6 +45,7 @@ export default function BannerTwo(){
                         <img 
                             className={styles.list__icon}
                             src={hoursIcon}
+                            alt='Clock icon'
                         />
                         <h3>24h de funcionamento</h3>
                        
@@ -51,6 +54,7 @@ export default function BannerTwo(){
                         <img 
                             className={styles.list__icon}
                             src={supportIcon}
+                            alt='Support icon'
                         />
                         <h3>Suporte 7 dias da semana</h3>                        
                     </li>
