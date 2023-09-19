@@ -23,8 +23,8 @@ export default function Banner(){
                     Alugue um carro aonde e quando quiser baixando nosso aplicativo.
                 </h2>
                 <div className={styles.slogan__images}>
-                    <img src={appStore} alt="Logo App Store" />
-                    <img src={playStore} alt="Logo Play Store" />
+                    <a href="https://www.apple.com/br/app-store/" target='blank'><img src={appStore} alt="Logo App Store" /></a>
+                    <a href="https://play.google.com/store/apps?hl=pt_BR&gl=US" target='blank'><img src={playStore} alt="Logo Play Store" /></a>
                 </div>
             </div>
             <animated.img
