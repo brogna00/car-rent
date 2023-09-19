@@ -21,7 +21,7 @@ export default function Brands(){
     const imgAnimation = useSpring({
         from: { transform: 'translateX(130%)' },
         to: { transform: 'translateX(-130%)' },
-        config: { duration: 20000 },
+        config: { duration: 40000 },
         reset: true,
         loop: true,
       });
