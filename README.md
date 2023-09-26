@@ -2,6 +2,7 @@
 
 Este é o repositório do projeto front-end React.js para a empresa fictícia Aluga Car. Este aplicativo web contém uma interface moderna e possibilita os usuários visualizarem veículos de diversas categorias disponíveis para aluguel.
 
+![image](https://github.com/brogna00/car-rent/assets/93611151/79e3dabe-f5a2-4e5d-8a92-f2e28998a3d6)
 
 ## Pré-requisitos
 
