@@ -1,12 +1,20 @@
 .container{
     border: 1px solid rgb(197, 197, 197);
-    box-shadow: 1px 1px 6px 2px rgba(255, 0, 0, 0.2);
+    box-shadow: 4px 4px 6px 2px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
 
     width: 300px;
     margin-bottom: 2em;
+    background-color: whitesmoke;
 
     
+}
+
+.container:hover{
+    transform: translate(0, -1rem);
+    transition: transform .4s;
+    border: 1px solid var(--color-sec);
+
 }
 
 .container__img img{
